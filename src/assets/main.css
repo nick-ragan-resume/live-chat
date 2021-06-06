@@ -1,0 +1,25 @@
+body {
+  background: #e3e3e3;
+  color: #777;
+}
+.container {
+  width: 90%;
+  max-width: 960px;
+  margin: 80px auto;
+  border-radius: 20px;
+  box-shadow: 2px 4px 6px #212c5b1a;
+  background: white;
+}
+.error {
+  color: #f44336;
+  font-size: 14px;
+}
+button {
+  text-decoration: none;
+  background: #212c5b;
+  color: white;
+  font-weight: bold;
+  border: 0;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
