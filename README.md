@@ -1,4 +1,5 @@
 # live-chat
+Live chat with Firebase backend to handle DB and Auth
 
 ## Project setup
 ```
